@@ -24,7 +24,7 @@
                 Đặt hàng online : 0378 902 874 .
             </div>
             <div class="footer-bottom">
-            © Thiết kế và lập trình bởi luanvinhduy
+            © Thiết kế và lập trình bởi luanquangduy
             </div>
         </div>
     </section>

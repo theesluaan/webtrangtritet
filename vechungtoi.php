@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Về chúng tôi - Nhóm 3</title>
+    <title>Về chúng tôi</title>
 </head>
 <style>
   
@@ -210,13 +210,8 @@
             </div>
             <div class="team-member-theluan">
                 <img src="image/vinh.jpg" alt="Thành viên 3">
-                <h3>Phạm Quang Vinh</h3>
+                <h3>Nguyễn Sỹ Quang</h3>
                 <p>Lập trình viên</p>
-            </div>
-            <div class="team-member-theluan">
-                <img src="image/thao.png" alt="Thành viên 4">
-                <h3>Lưu Thị Thảo</h3>
-                <p>Giảng viên</p>
             </div>
         </div>
     </section>
