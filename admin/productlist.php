@@ -19,12 +19,13 @@ if(isset($_GET['keyword']) && !empty($_GET['keyword'])){
     <div class="table-content">
     <h1>Danh sách sản phẩm</h1>
         <!-- Thanh tìm kiếm -->
-        <form action="" method="GET" style="margin-bottom:20px;">
-            <input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm..." 
-                   value="<?php echo isset($_GET['keyword']) ? $_GET['keyword'] : ''; ?>" 
-                   style="padding:8px; width:300px;">
-            <input type="submit" value="Tìm kiếm" style="padding:8px;">
-        </form>
+<form action="" method="GET" class="search-box">
+    <input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm..."
+        value="<?php echo isset($_GET['keyword']) ? $_GET['keyword'] : ''; ?>" 
+        class="search-input">
+
+    <button type="submit" class="search-btn">Tìm kiếm</button>
+</form>
 
         <table>
             <tr>
